@@ -4,7 +4,6 @@ C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\bin\Debug\netcore
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.runtimeconfig.dev.json
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.dll
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\bin\Debug\netcoreapp3.1\HelloWord.pdb
-C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.AssemblyReference.cache
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.Form1.resources
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.csproj.GenerateResource.cache
 C:\Users\Mir\MyLife\Courses\FormacaoDOTNET\HelloWord\HelloWord\obj\Debug\netcoreapp3.1\HelloWord.AssemblyInfoInputs.cache
